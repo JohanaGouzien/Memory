@@ -1,5 +1,5 @@
 //function bouton play
-$(document).ready(function() {
+/*$(document).ready(function() {
 
 
 $(".contenu").hide();
