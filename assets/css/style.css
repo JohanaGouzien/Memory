@@ -21,6 +21,17 @@ h2,h3,p {
     
 }
 
+.footer {
+        background-color: #182744;
+        color: white;
+        position:absolute;
+        width: 100%;
+        bottom: 0;
+        height: 1.5em;
+        
+
+}
+
 /*Police */
 
 @font-face {
